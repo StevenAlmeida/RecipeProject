@@ -2,3 +2,9 @@ body {
     background-color: #1a1a1a;
     color: #f7f7f7;
 }
+
+li a {
+    color: #f7f7f7;
+    font-size: 1.05em;
+    margin-bottom: 5px;
+}
